@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duhhbzz
+- 👋 Hi, I’m @duhhbzz, I have a website! www.duhhbzz.com <-- 
 
 - 👀 I’m interested in programming. I don't have a specific concentration yet, just trying out little by
 by little until I can determine a favorite to pursue.
