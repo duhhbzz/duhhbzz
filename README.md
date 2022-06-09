@@ -3,8 +3,7 @@
 - 👀 I’m interested in programming. I don't have a specific concentration yet, just trying out little by
 by little until I can determine a favorite to pursue.
 
-- 🌱 I’m currently working on a Bachelors' Degree in Information Technology alongside a certification through
-my university they call, "Advanced Software Development"
+- 🌱 I currently work in Support for IT, but have aspirations and focus to move into development or a System administrative role. I hold an undergraduate degree in information technology along with a certification from the same university for Advanced Software Developement. I am on track to soon start pursuing a graduate degree in the same focus.
 
 - 💞️ As I progress in my studies I plan to involve in community projects and give back what I've learned.
 
