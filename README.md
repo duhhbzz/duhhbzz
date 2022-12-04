@@ -1,4 +1,4 @@
-# 💫 About Me:
+### 💫 About Me:
 📜 Recent Bachelor's Grad w/ Programming Cert<br>
 🖥️ Currently fortifying my coding skill<br>
 🧮 Practicing on HackerRank & Leetcode<br>
