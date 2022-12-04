@@ -1,4 +1,4 @@
-### 💫 About Me:
+## 💫 About Me:
 📜 Recent Bachelor's Grad w/ Programming Cert<br>
 🖥️ Currently fortifying my coding skill<br>
 🧮 Practicing on HackerRank & Leetcode<br>
@@ -15,10 +15,10 @@
 <br><br>
 Find more works of mine: <a href="https://codepen.io/itsduhhbzz" target="_blank">Codepen</a>  || <a href="https://replit.com/@itsduhhbzz" target="_blank">Replit</a>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) 
 
-# 🖌️ Design Tools:
+## 🖌️ Design Tools:
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
@@ -29,7 +29,7 @@ Find more works of mine: <a href="https://codepen.io/itsduhhbzz" target="_blank"
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duhhbzz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duhhbzz&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duhhbzz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
