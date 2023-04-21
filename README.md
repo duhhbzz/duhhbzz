@@ -1,8 +1,8 @@
 ## 💫 About Me:
-📜 Recent Bachelor's Grad w/ Programming Cert<br>
+📜 Bachelor's Grad - University of Phoenix<br>
 🖥️ Currently fortifying my coding skill<br>
-🧮 Practicing on HackerRank & Leetcode<br>
-💻 Always ready to learn<br>
+🧮 Practicing on HackerRank, Leetcode, & The Odin Project<br>
+💻 Always ready to learn & build!<br>
 ❤️‍🔥 Passionate to Create!
 
 
