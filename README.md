@@ -1,6 +1,6 @@
 ## 💫 About Me:
 📜 Bachelor's Grad - University of Phoenix<br>
-🖥️ Currently fortifying my coding skill<br>
+📜 Master's Student - Full Sail University<br>
 🧮 Practicing on HackerRank, Leetcode, & The Odin Project<br>
 💻 Always ready to learn & build!<br>
 ❤️‍🔥 Passionate to Create!
