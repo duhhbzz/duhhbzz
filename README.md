@@ -8,7 +8,7 @@ Building infrastructure, automating systems, developing software, and occasional
 
 <br>
 
-[![LUXE Esports](https://img.shields.io/badge/LUXE%20ESPORTS-Co--Founder-D4AF37?style=for-the-badge&logoColor=000000)](https://luxeesports.gg)
+[![LUXE Esports](https://img.shields.io/badge/LUXE%20ESPORTS-Co--Founder-D4AF37?style=for-the-badge&logoColor=000000)](https://luxeesports.gg)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidtroi)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/duhhbzz)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsDuhhBzz)
