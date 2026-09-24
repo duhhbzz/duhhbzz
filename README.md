@@ -233,7 +233,7 @@ A modular enhancement framework for **Graveyard Keeper 2**. Current work is focu
 Rebuilding my personal site into a cleaner technical portfolio for infrastructure, automation, software projects, and professional experience. The goal is a focused site that shows the work behind the résumé instead of just repeating it.
 
 ### LUXE Esports Platform  
-<a href="https://luxeesports.gg">
+<a href="https://demo.luxeesports.gg">
   <img alt="Live" src="https://img.shields.io/badge/Status-Live-D4AF37">
 </a>
 
@@ -253,6 +253,6 @@ Ongoing technical work for the LUXE Esports web platform, including team and cre
 
 ### Infrastructure · Systems Administration · Automation · Software
 
-[LinkedIn](https://linkedin.com/in/davidtroi) · [LUXE Esports](https://luxeesports.gg) · [Email](mailto:contact@davidtroi.com)
+[LinkedIn](https://linkedin.com/in/davidtroi) · [LUXE Esports](https://demo.luxeesports.gg) · [Email](mailto:contact@davidtroi.com)
 
 </div>
