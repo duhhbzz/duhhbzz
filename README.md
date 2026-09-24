@@ -202,19 +202,27 @@ Currently paused
 
 ## Currently Building
 
-### GK2+
+### GK2+  
+<a href="https://github.com/duhhbzz/GK2Plus">
+  <img alt="Active Development" src="https://img.shields.io/badge/Status-Active%20Development-2ea44f">
+</a>
 
 **Personal / open-source project · C# · BepInEx · Harmony**
 
 A modular enhancement framework for **Graveyard Keeper 2**. Current work is focused on deeper runtime UI integration, framework services, compatibility behavior, and the first gameplay/QoL modules built on top of the foundation.
 
-### davidtroi.com
+### davidtroi.com  
+<img alt="In Development" src="https://img.shields.io/badge/Status-In%20Development-orange">
+<img alt="Not Public Yet" src="https://img.shields.io/badge/Preview-Not%20Public%20Yet-555555">
 
 **Personal portfolio · Next.js · TypeScript · Tailwind CSS · Vercel**
 
 Rebuilding my personal site into a cleaner technical portfolio for infrastructure, automation, software projects, and professional experience. The goal is a focused site that shows the work behind the résumé instead of just repeating it.
 
-### LUXE Esports Platform
+### LUXE Esports Platform  
+<a href="https://luxeesports.gg">
+  <img alt="Live" src="https://img.shields.io/badge/Status-Live-D4AF37">
+</a>
 
 **Co-founder project · Next.js · TypeScript · Supabase · Vercel**
 
