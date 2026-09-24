@@ -69,7 +69,7 @@ This is the kind of after-hours technical work I enjoy: **server reliability, bu
 
 ---
 
-### GK2+
+### GK2+ | Graveyard Keeper II Plus Mod
 
 <p>
   <a href="https://github.com/duhhbzz/GK2Plus">
@@ -85,7 +85,7 @@ This is the kind of after-hours technical work I enjoy: **server reliability, bu
 
 The project includes a reusable feature registry, shared framework services, compatibility scanning, native-style UI work, configuration handling, diagnostics, and public reconnaissance tooling used to understand the game's runtime systems before implementing features.
 
-
+Featured on [NexusMods](https://www.nexusmods.com/graveyardkeeper2/mods/69)
 
 ---
 
