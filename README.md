@@ -207,7 +207,12 @@ Currently paused
   <img alt="Active Development" src="https://img.shields.io/badge/Status-Active%20Development-2ea44f">
 </a>
 
-**Personal / open-source project · C# · BepInEx · Harmony**
+<p>
+  <img alt="Personal Open Source Project" src="https://img.shields.io/badge/Project-Personal%20%2F%20Open%20Source-8A2BE2">
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white">
+  <img alt="BepInEx" src="https://img.shields.io/badge/BepInEx-5.4.23.5-purple">
+  <img alt="Harmony" src="https://img.shields.io/badge/Harmony-Patching-7B68EE">
+</p>
 
 A modular enhancement framework for **Graveyard Keeper 2**. Current work is focused on deeper runtime UI integration, framework services, compatibility behavior, and the first gameplay/QoL modules built on top of the foundation.
 
@@ -215,7 +220,13 @@ A modular enhancement framework for **Graveyard Keeper 2**. Current work is focu
 <img alt="In Development" src="https://img.shields.io/badge/Status-In%20Development-orange">
 <img alt="Not Public Yet" src="https://img.shields.io/badge/Preview-Not%20Public%20Yet-555555">
 
-**Personal portfolio · Next.js · TypeScript · Tailwind CSS · Vercel**
+<p>
+  <img alt="Personal Portfolio" src="https://img.shields.io/badge/Project-Personal%20Portfolio-555555">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel">
+</p>
 
 Rebuilding my personal site into a cleaner technical portfolio for infrastructure, automation, software projects, and professional experience. The goal is a focused site that shows the work behind the résumé instead of just repeating it.
 
@@ -224,7 +235,13 @@ Rebuilding my personal site into a cleaner technical portfolio for infrastructur
   <img alt="Live" src="https://img.shields.io/badge/Status-Live-D4AF37">
 </a>
 
-**Co-founder project · Next.js · TypeScript · Supabase · Vercel**
+<p>
+  <img alt="Co Founder Project" src="https://img.shields.io/badge/Project-Co--Founder-D4AF37">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel">
+</p>
 
 Ongoing technical work for the LUXE Esports web platform, including team and creator data, public profiles, content discovery, commerce integration, and the supporting application architecture.
 
