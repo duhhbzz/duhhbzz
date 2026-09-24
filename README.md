@@ -2,9 +2,11 @@
 
 # David Sweatt
 
-### Systems Administrator · Automation & Build Tooling · Game Infrastructure · Developer
+### Systems Administrator · Infrastructure · Application Support · Automation
 
-I work across infrastructure, automation, software tooling, and game-adjacent systems — with a focus on making technical workflows more reliable, repeatable, and easier to operate.
+My day-to-day work is centered on infrastructure, application support, on-prem virtual machines, systems administration, networking, cloud services, and automation.
+
+Outside of work, I spend a lot of my free time building software, experimenting with game technology, and digging into the tooling and infrastructure behind games and online services.
 
 <p>
   <a href="https://linkedin.com/in/davidtroi">
@@ -33,19 +35,19 @@ I work across infrastructure, automation, software tooling, and game-adjacent sy
 
 ## About
 
-I'm a systems administrator and developer with experience spanning **Windows and Linux infrastructure, cloud services, networking, virtualization, automation, deployment workflows, and software development**.
+I'm a systems administrator whose professional work is primarily focused on **infrastructure, application support, on-prem virtualization, Windows and Linux systems, networking, cloud services, troubleshooting, and automation**.
 
-A lot of my work sits between traditional infrastructure and software engineering: turning repetitive administration into scripts, troubleshooting systems across multiple layers, improving deployment reliability, documenting operational workflows, and building tools that make other technical work easier.
+I enjoy turning repetitive administration into scripts, tracing problems across multiple layers of a system, documenting operational workflows, and finding ways to make infrastructure work more reliable and repeatable.
 
-I'm especially interested in **build and release engineering, CI/CD, game infrastructure, dedicated servers, live-service systems, and developer tooling**.
+Outside my day job, I use personal and open-source projects to explore **software development, CI/CD, build and release tooling, game modding, dedicated servers, and developer tooling**. Those projects are a technical hobby and learning space rather than my primary professional role.
 
 ---
 
-## Featured Engineering Work
+## Selected Projects & Open Source
 
 ### Windrose+
 
-**Open-source contributor · Dedicated server tooling · PowerShell · Lua · C++ · GitHub Actions**
+**Open-source contribution · Dedicated server tooling · PowerShell · Lua · C++ · GitHub Actions**
 
 [Windrose+](https://github.com/humangenome/WindrosePlus) is a server-side framework for Windrose dedicated servers that adds administration, live-map, configuration, query, scripting, and build/deployment tooling.
 
@@ -54,7 +56,7 @@ My upstream contributions include merged fixes to PowerShell-based configuration
 - [PR #76 — Increase JSON serialization depth to prevent truncation in PAK builds](https://github.com/HumanGenome/WindrosePlus/pull/76)
 - [PR #80 — Fix multiplier history persistence on PowerShell/Linux](https://github.com/HumanGenome/WindrosePlus/pull/80)
 
-The project is particularly relevant to the kind of engineering I enjoy: **server reliability, build tooling, configuration generation, failure handling, automation, and operational debugging**.
+This is the kind of after-hours technical work I enjoy: **server reliability, build tooling, configuration generation, failure handling, automation, and operational debugging**.
 
 <p>
   <a href="https://github.com/humangenome/WindrosePlus">
@@ -69,7 +71,7 @@ The project is particularly relevant to the kind of engineering I enjoy: **serve
 
 ### GK2+
 
-**C# · BepInEx · Harmony · Unity modding · Framework design**
+**Personal project · C# · BepInEx · Harmony · Unity modding · Framework design**
 
 [GK2+](https://github.com/duhhbzz/GK2Plus) is a modular quality-of-life and gameplay enhancement framework for **Graveyard Keeper 2**.
 
@@ -88,7 +90,7 @@ The project includes a reusable feature registry, shared framework services, com
 
 ### Gamers N Geeks Modern Redesign
 
-**Next.js · React · TypeScript · Tailwind CSS · Vercel**
+**Personal portfolio project · Next.js · React · TypeScript · Tailwind CSS · Vercel**
 
 [GamersNGeeksDEMO](https://github.com/duhhbzz/GamersNGeeksDEMO) is an independent, non-production storefront redesign concept built as a complete interactive case study rather than a static mockup.
 
@@ -147,7 +149,7 @@ It demonstrates responsive component architecture, typed demo data, accessibilit
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
 </p>
 
-### Game & Interactive Systems
+### Game & Interactive Systems — Personal Projects
 
 <p>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unity">
@@ -167,16 +169,22 @@ The goal is not to replace engineering judgment. I treat AI output like any othe
 
 ---
 
-## Current Work
+## Professional Focus
 
-I'm currently focused on:
+My day-to-day work is focused on:
 
-- enterprise infrastructure and systems administration
-- automation with PowerShell, Python, Bash, APIs, and Git
-- build, deployment, and release-oriented tooling
-- game-server infrastructure and mod/framework development
-- the technical platform behind [LUXE Esports](https://luxeesports.gg)
-- expanding deeper into CI/CD, cloud infrastructure, and software engineering
+- infrastructure and systems administration
+- application and platform support
+- on-prem virtual machines and virtualization
+- Windows and Linux systems
+- networking and cloud services
+- troubleshooting, operational support, and automation
+
+## Outside Work
+
+Most of the game-related work on this profile comes from personal projects, open-source contributions, and technical rabbit holes I pursue in my free time.
+
+That includes modding frameworks, dedicated-server tooling, web projects, game-development experiments, CI/CD, build systems, and the technical side of [LUXE Esports](https://luxeesports.gg). I use those projects to keep learning and to push further into software engineering without pretending they are my day job.
 
 ---
 
@@ -192,7 +200,7 @@ Currently paused
 
 <div align="center">
 
-### Infrastructure · Automation · Build Tooling · Games · Software
+### Infrastructure · Systems Administration · Automation · Software
 
 [LinkedIn](https://linkedin.com/in/davidtroi) · [LUXE Esports](https://luxeesports.gg) · [Email](mailto:contact@davidtroi.com)
 
