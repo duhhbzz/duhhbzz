@@ -1,346 +1,199 @@
 <div align="center">
 
-# 👋 David Sweatt
+# David Sweatt
 
-### Systems Administrator · Infrastructure & Cloud · Developer · Technical Creative
+### Systems Administrator · Automation & Build Tooling · Game Infrastructure · Developer
 
-Building infrastructure, automating systems, developing software, and occasionally making computers do things they probably weren't intended to do.
+I work across infrastructure, automation, software tooling, and game-adjacent systems — with a focus on making technical workflows more reliable, repeatable, and easier to operate.
 
-<br>
+<p>
+  <a href="https://linkedin.com/in/davidtroi">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Sweatt-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://luxeesports.gg">
+    <img alt="LUXE Esports" src="https://img.shields.io/badge/LUXE%20Esports-Co--Founder-D4AF37">
+  </a>
+  <a href="mailto:contact@davidtroi.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-contact%40davidtroi.com-444444">
+  </a>
+</p>
 
-[![LUXE Esports](https://img.shields.io/badge/LUXE%20ESPORTS-Co--Founder-D4AF37?style=for-the-badge&logoColor=000000)](https://luxeesports.gg)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidtroi)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/duhhbzz)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsDuhhBzz)
+<p>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+## About
 
-💻 **Systems Administrator** focused on infrastructure, cloud services, networking, automation, and systems engineering.  
-🏗️ Building and maintaining environments across **Windows, Linux, Azure, Microsoft 365, virtualization, and enterprise networking**.  
-⚙️ Automating workflows with **PowerShell, Python, Bash, APIs, and AI-assisted engineering tools**.  
-🎮 Interested in the infrastructure and backend systems behind **games, live services, dedicated servers, and online platforms**.  
-🚀 **Co-Founder of [LUXE Esports](https://luxeesports.gg)** and founder of **Pixel Rift Interactive**.
+I'm a systems administrator and developer with experience spanning **Windows and Linux infrastructure, cloud services, networking, virtualization, automation, deployment workflows, and software development**.
 
-<br>
+A lot of my work sits between traditional infrastructure and software engineering: turning repetitive administration into scripts, troubleshooting systems across multiple layers, improving deployment reliability, documenting operational workflows, and building tools that make other technical work easier.
 
-📜 **Bachelor's — Information Technology** w/ Certification in Advanced Software Engineering  
-📜 **Master's — Computer Science** *(Studies currently on financial hiatus)*
+I'm especially interested in **build and release engineering, CI/CD, game infrastructure, dedicated servers, live-service systems, and developer tooling**.
 
 ---
 
-## 🔭 What I'm Working On
+## Featured Engineering Work
 
-### 🏆 LUXE Esports
+### Windrose+
 
-Co-founding and building the technical side of **[LUXE Esports](https://luxeesports.gg)**, including its web platform, data architecture, integrations, and supporting infrastructure.
+**Open-source contributor · Dedicated server tooling · PowerShell · Lua · C++ · GitHub Actions**
 
-`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Vercel`
+[Windrose+](https://github.com/humangenome/WindrosePlus) is a server-side framework for Windrose dedicated servers that adds administration, live-map, configuration, query, scripting, and build/deployment tooling.
 
-### 🎮 Pixel Rift Interactive
+My upstream contributions include merged fixes to PowerShell-based configuration and build workflows:
 
-Independent game-development work focused on gameplay systems, tooling, technical design, and small-scale game projects.
+- [PR #76 — Increase JSON serialization depth to prevent truncation in PAK builds](https://github.com/HumanGenome/WindrosePlus/pull/76)
+- [PR #80 — Fix multiplier history persistence on PowerShell/Linux](https://github.com/HumanGenome/WindrosePlus/pull/80)
 
-`Unity` · `Unreal Engine` · `C#` · `Game Systems` · `Audio Pipelines`
+The project is particularly relevant to the kind of engineering I enjoy: **server reliability, build tooling, configuration generation, failure handling, automation, and operational debugging**.
 
-### 🧪 Open Source & Systems Work
-
-Contributing debugging, fixes, and dedicated-server improvements to:
-
-🔧 **[WindrosePlus](https://github.com/humangenome/WindrosePlus)**
-
-Long-term, I'm interested in bridging **infrastructure engineering, software development, game technology, embedded systems, and hardware ecosystems**.
-
----
-
-# 🧰 Tech Stack
-
-<details open>
-<summary><strong>🖥️ Systems & Infrastructure</strong></summary>
-
-<br>
-
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows11&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-005BA1?style=flat-square&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=flat-square&logoColor=white)
-![Group Policy](https://img.shields.io/badge/Group%20Policy-0078D4?style=flat-square&logoColor=white)
-
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
-![Cisco Meraki](https://img.shields.io/badge/Cisco%20Meraki-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-LAN%20%7C%20WAN%20%7C%20WLAN-0067B8?style=flat-square)
-![VLANs](https://img.shields.io/badge/VLANs%20%26%20Trunking-00599C?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square)
-![VPN](https://img.shields.io/badge/VPN-3949AB?style=flat-square)
-
-![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square)
-![Microsoft Exchange](https://img.shields.io/badge/Exchange%20Online-0078D4?style=flat-square)
-![MFA](https://img.shields.io/badge/MFA-Identity%20%26%20Access-4CAF50?style=flat-square)
-
-</details>
-
-<details open>
-<summary><strong>⚙️ Automation & Development</strong></summary>
-
-<br>
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</details>
-
-<details>
-<summary><strong>🌐 Web, Data & Deployment</strong></summary>
-
-<br>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub CLI](https://img.shields.io/badge/GitHub%20CLI-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logoColor=white)
-
-</details>
-
-<details>
-<summary><strong>🤖 AI-Assisted Engineering</strong></summary>
-
-<br>
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-5C5CFF?style=flat-square)
-![Agentic Development](https://img.shields.io/badge/Agentic-AI%20Development-8A2BE2?style=flat-square)
-
-### Workflow
-
-- Agentic and AI-assisted development
-- Prompt and context engineering
-- AI-assisted debugging and troubleshooting
-- Code review and refactoring
-- Architecture and implementation planning
-- Technical documentation generation
-- PowerShell and Python automation
-- API and tool integrations
-- MCP-oriented workflows
-- Repository-aware development agents
-
-> AI is part of the engineering workflow — not a replacement for understanding the systems being built.
-
-</details>
-
-<details>
-<summary><strong>🎮 Game Development & Interactive Systems</strong></summary>
-
-<br>
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Dedicated Servers](https://img.shields.io/badge/Dedicated%20Servers-Game%20Infrastructure-444444?style=flat-square)
-![Game Systems](https://img.shields.io/badge/Game%20Systems-Development-5C2D91?style=flat-square)
-![Game Audio](https://img.shields.io/badge/Game%20Audio-Implementation-F5792A?style=flat-square)
-
-**Areas of interest**
-
-- Dedicated-server infrastructure
-- Backend systems for multiplayer and live-service games
-- Gameplay systems and tooling
-- Server configuration and administration
-- Game asset pipelines
-- Event-driven audio implementation
-- Modding and community tooling
-
-</details>
-
-<details>
-<summary><strong>🧪 Growing / Exploring</strong></summary>
-
-<br>
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Learning-555555?style=flat-square)
-![Custom Firmware](https://img.shields.io/badge/Custom%20Firmware-Exploring-555555?style=flat-square)
-![ARM](https://img.shields.io/badge/ARM-Learning-0091BD?style=flat-square&logo=arm&logoColor=white)
-
-I'm particularly interested in **embedded Linux, custom firmware, handheld operating systems, and small-form-factor computing**.
-
-</details>
+<p>
+  <a href="https://github.com/humangenome/WindrosePlus">
+    <img alt="Repository" src="https://img.shields.io/badge/GitHub-Upstream%20Repository-181717?logo=github">
+  </a>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-Build%20Tooling-5391FE">
+  <img alt="CI" src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF">
+  <img alt="Dedicated Servers" src="https://img.shields.io/badge/Focus-Dedicated%20Servers-444444">
+</p>
 
 ---
 
-# 🎨 Creative Toolbelt
+### GK2+
 
-<details>
-<summary><strong>🖌️ Design, Graphics & Pixel Art</strong></summary>
+**C# · BepInEx · Harmony · Unity modding · Framework design**
 
-<br>
+[GK2+](https://github.com/duhhbzz/GK2Plus) is a modular quality-of-life and gameplay enhancement framework for **Graveyard Keeper 2**.
 
-### Preferred Tools
+The project includes a reusable feature registry, shared framework services, compatibility scanning, native-style UI work, configuration handling, diagnostics, and public reconnaissance tooling used to understand the game's runtime systems before implementing features.
 
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=flat-square)
-![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=flat-square)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
-
-### Additional Experience
-
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-
-### Familiar With
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-
-🎯 **Preference:** Affinity tools over Adobe where practical for workflow efficiency and licensing flexibility.
-
-</details>
-
-<details>
-<summary><strong>🔊 Audio & Sound Design</strong></summary>
-
-<br>
-
-![FL Studio](https://img.shields.io/badge/FL%20Studio-F5792A?style=flat-square)
-
-### Creation & Processing
-
-- Sound-effect design
-- Music and audio editing
-- Game-environment audio
-- Asset preparation and processing
-
-### Implementation
-
-- Unreal Engine audio implementation
-- Sound Cues
-- Event-driven playback
-- Game audio asset organization
-- Engine-ready export workflows
-
-### Pipeline
-
-`Creation → Processing → Export → Engine → Testing → Iteration`
-
-</details>
+<p>
+  <a href="https://github.com/duhhbzz/GK2Plus">
+    <img alt="Repository" src="https://img.shields.io/badge/GitHub-GK2%2B-181717?logo=github">
+  </a>
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-.NET-512BD4">
+  <img alt="BepInEx" src="https://img.shields.io/badge/BepInEx-5.4.23.5-purple">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Foundation%20Preview-orange">
+</p>
 
 ---
 
-# 📊 GitHub Activity
+### Gamers N Geeks Modern Redesign
 
-<div align="center">
+**Next.js · React · TypeScript · Tailwind CSS · Vercel**
 
-<img
-  src="https://ghstats.dev/api/card?username=duhhbzz&theme=midnight&hide_border=true&show_icons=true&show_ring=true"
-  alt="David's GitHub Stats"
-/>
+[GamersNGeeksDEMO](https://github.com/duhhbzz/GamersNGeeksDEMO) is an independent, non-production storefront redesign concept built as a complete interactive case study rather than a static mockup.
 
-<br><br>
+It demonstrates responsive component architecture, typed demo data, accessibility-conscious UI, documented migration planning, performance monitoring, and deployment through Vercel.
 
-<img
-  src="https://ghstats.dev/api/langs?username=duhhbzz&theme=midnight&layout=compact&max_langs=8&hide_border=true"
-  alt="David's Most Used Languages"
-/>
-
-<br><br>
-
-<img
-  src="https://ghstats.dev/api/sparkline?username=duhhbzz&days=30&width=700&hide_border=true&title=30-Day%20Activity"
-  alt="David's 30 Day GitHub Activity"
-/>
-
-</div>
+<p>
+  <a href="https://gng.davidtroi.com">
+    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-gng.davidtroi.com-72C341">
+  </a>
+  <a href="https://gng-concept.vercel.app">
+    <img alt="Fallback Demo" src="https://img.shields.io/badge/Fallback-Vercel-black">
+  </a>
+  <a href="https://github.com/duhhbzz/GamersNGeeksDEMO">
+    <img alt="Repository" src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github">
+  </a>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## Engineering Toolkit
 
-<div align="center">
+### Systems & Infrastructure
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/duhhbzz/duhhbzz/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/duhhbzz/duhhbzz/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/duhhbzz/duhhbzz/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
+<p>
+  <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0078D4?logo=windows11&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4">
+  <img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft%20365-D83B01">
+  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white">
+  <img alt="Hyper-V" src="https://img.shields.io/badge/Hyper--V-0078D4">
+  <img alt="Cisco Meraki" src="https://img.shields.io/badge/Cisco%20Meraki-1BA0D7?logo=cisco&logoColor=white">
+</p>
 
-</div>
+### Automation & Development
+
+<p>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</p>
+
+### Web, Data & Deployment
+
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?logo=vercel">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+</p>
+
+### Game & Interactive Systems
+
+<p>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unity">
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white">
+  <img alt="BepInEx" src="https://img.shields.io/badge/BepInEx-Modding-purple">
+  <img alt="Dedicated Servers" src="https://img.shields.io/badge/Dedicated%20Servers-Game%20Infrastructure-444444">
+  <img alt="Game Tooling" src="https://img.shields.io/badge/Game%20Tooling-Development-5C2D91">
+</p>
 
 ---
 
-# 🌐 Links & Presence
+## AI-Assisted Engineering
 
-### Professional & Community
+I use AI as part of a **reviewable engineering workflow** for investigation, architecture planning, debugging, documentation, code review, and low-risk repository changes.
 
-[![LUXE Esports](https://img.shields.io/badge/LUXE%20ESPORTS-luxeesports.gg-D4AF37?style=flat-square)](https://luxeesports.gg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Sweatt-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidtroi)
-[![GitHub](https://img.shields.io/badge/GitHub-duhhbzz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/duhhbzz)
+The goal is not to replace engineering judgment. I treat AI output like any other proposed change: keep the scope clear, inspect the result, validate it with normal tooling, and preserve an auditable history through Git.
 
-### Social
+---
 
-[![Twitch](https://img.shields.io/badge/Twitch-duhhbzz-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/duhhbzz)
-[![X](https://img.shields.io/badge/X-itsDuhhBzz-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsDuhhBzz)
-[![Reddit](https://img.shields.io/badge/Reddit-dtdubbydubz-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/dtdubbydubz)
-[![Dribbble](https://img.shields.io/badge/Dribbble-itsduhhbzz-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/itsduhhbzz)
+## Current Work
 
-### Dev Playgrounds
+I'm currently focused on:
 
-[![CodePen](https://img.shields.io/badge/CodePen-itsduhhbzz-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/itsduhhbzz)
-[![Replit](https://img.shields.io/badge/Replit-itsduhhbzz-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@itsduhhbzz)
+- enterprise infrastructure and systems administration
+- automation with PowerShell, Python, Bash, APIs, and Git
+- build, deployment, and release-oriented tooling
+- game-server infrastructure and mod/framework development
+- the technical platform behind [LUXE Esports](https://luxeesports.gg)
+- expanding deeper into CI/CD, cloud infrastructure, and software engineering
+
+---
+
+## Education
+
+**Bachelor of Science — Information Technology**  
+University of Phoenix
+
+**Master's studies — Computer Science**  
+Currently paused
 
 ---
 
 <div align="center">
 
-## ☕ Support
+### Infrastructure · Automation · Build Tooling · Games · Software
 
-[![Buy Me a Coffee](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/duhhbzz)
-
-<br>
-
-### Infrastructure · Automation · Development · Games · Creative Technology
-
-<sub>
-Always building. Always learning. Occasionally breaking things in the name of figuring out how they work.
-</sub>
+[LinkedIn](https://linkedin.com/in/davidtroi) · [LUXE Esports](https://luxeesports.gg) · [Email](mailto:contact@davidtroi.com)
 
 </div>
