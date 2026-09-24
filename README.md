@@ -48,12 +48,12 @@ Outside my day job, I use personal and open-source projects to explore **softwar
 ### Windrose+
 
 <p>
-  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f">
-  <img alt="Dedicated Servers" src="https://img.shields.io/badge/Dedicated%20Servers-Tooling-444444">
+  <a href="https://github.com/humangenome/WindrosePlus">
+    <img alt="Open Source Contributor" src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f">
+  </a>
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+  <img alt="Dedicated Servers" src="https://img.shields.io/badge/Dedicated%20Servers-444444">
 </p>
 
 [Windrose+](https://github.com/humangenome/WindrosePlus) is a server-side framework for Windrose dedicated servers that adds administration, live-map, configuration, query, scripting, and build/deployment tooling.
@@ -65,69 +65,49 @@ My upstream contributions include merged fixes to PowerShell-based configuration
 
 This is the kind of after-hours technical work I enjoy: **server reliability, build tooling, configuration generation, failure handling, automation, and operational debugging**.
 
-<p>
-  <a href="https://github.com/humangenome/WindrosePlus">
-    <img alt="Repository" src="https://img.shields.io/badge/GitHub-Upstream%20Repository-181717?logo=github">
-  </a>
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-Build%20Tooling-5391FE">
-  <img alt="CI" src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF">
-  <img alt="Dedicated Servers" src="https://img.shields.io/badge/Focus-Dedicated%20Servers-444444">
-</p>
+
 
 ---
 
 ### GK2+
 
 <p>
-  <img alt="Personal Project" src="https://img.shields.io/badge/Personal%20Project-Game%20Modding-8A2BE2">
+  <a href="https://github.com/duhhbzz/GK2Plus">
+    <img alt="Personal Project" src="https://img.shields.io/badge/Personal%20Project-GK2%2B-8A2BE2">
+  </a>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white">
   <img alt="BepInEx" src="https://img.shields.io/badge/BepInEx-5.4.23.5-purple">
   <img alt="Harmony" src="https://img.shields.io/badge/Harmony-Patching-7B68EE">
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-Modding-black?logo=unity">
-  <img alt="Framework Design" src="https://img.shields.io/badge/Framework-Design-555555">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unity">
 </p>
 
 [GK2+](https://github.com/duhhbzz/GK2Plus) is a modular quality-of-life and gameplay enhancement framework for **Graveyard Keeper 2**.
 
 The project includes a reusable feature registry, shared framework services, compatibility scanning, native-style UI work, configuration handling, diagnostics, and public reconnaissance tooling used to understand the game's runtime systems before implementing features.
 
-<p>
-  <a href="https://github.com/duhhbzz/GK2Plus">
-    <img alt="Repository" src="https://img.shields.io/badge/GitHub-GK2%2B-181717?logo=github">
-  </a>
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-.NET-512BD4">
-  <img alt="BepInEx" src="https://img.shields.io/badge/BepInEx-5.4.23.5-purple">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Foundation%20Preview-orange">
-</p>
+
 
 ---
 
 ### Gamers N Geeks Modern Redesign
 
 <p>
-  <img alt="Portfolio Project" src="https://img.shields.io/badge/Portfolio%20Project-Web%20Engineering-72C341">
+  <a href="https://github.com/duhhbzz/GamersNGeeksDEMO">
+    <img alt="Portfolio Project" src="https://img.shields.io/badge/Portfolio%20Project-GamersNGeeksDEMO-72C341">
+  </a>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs">
-  <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel">
+  <a href="https://gng.davidtroi.com">
+    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-gng.davidtroi.com-72C341">
+  </a>
 </p>
 
 [GamersNGeeksDEMO](https://github.com/duhhbzz/GamersNGeeksDEMO) is an independent, non-production storefront redesign concept built as a complete interactive case study rather than a static mockup.
 
 It demonstrates responsive component architecture, typed demo data, accessibility-conscious UI, documented migration planning, performance monitoring, and deployment through Vercel.
 
-<p>
-  <a href="https://gng.davidtroi.com">
-    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-gng.davidtroi.com-72C341">
-  </a>
-  <a href="https://gng-concept.vercel.app">
-    <img alt="Fallback Demo" src="https://img.shields.io/badge/Fallback-Vercel-black">
-  </a>
-  <a href="https://github.com/duhhbzz/GamersNGeeksDEMO">
-    <img alt="Repository" src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github">
-  </a>
-</p>
+
 
 ---
 
