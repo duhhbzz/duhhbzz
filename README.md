@@ -47,7 +47,14 @@ Outside my day job, I use personal and open-source projects to explore **softwar
 
 ### Windrose+
 
-**Open-source contribution · Dedicated server tooling · PowerShell · Lua · C++ · GitHub Actions**
+<p>
+  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f">
+  <img alt="Dedicated Servers" src="https://img.shields.io/badge/Dedicated%20Servers-Tooling-444444">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+</p>
 
 [Windrose+](https://github.com/humangenome/WindrosePlus) is a server-side framework for Windrose dedicated servers that adds administration, live-map, configuration, query, scripting, and build/deployment tooling.
 
@@ -71,7 +78,14 @@ This is the kind of after-hours technical work I enjoy: **server reliability, bu
 
 ### GK2+
 
-**Personal project · C# · BepInEx · Harmony · Unity modding · Framework design**
+<p>
+  <img alt="Personal Project" src="https://img.shields.io/badge/Personal%20Project-Game%20Modding-8A2BE2">
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white">
+  <img alt="BepInEx" src="https://img.shields.io/badge/BepInEx-5.4.23.5-purple">
+  <img alt="Harmony" src="https://img.shields.io/badge/Harmony-Patching-7B68EE">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-Modding-black?logo=unity">
+  <img alt="Framework Design" src="https://img.shields.io/badge/Framework-Design-555555">
+</p>
 
 [GK2+](https://github.com/duhhbzz/GK2Plus) is a modular quality-of-life and gameplay enhancement framework for **Graveyard Keeper 2**.
 
@@ -90,7 +104,14 @@ The project includes a reusable feature registry, shared framework services, com
 
 ### Gamers N Geeks Modern Redesign
 
-**Personal portfolio project · Next.js · React · TypeScript · Tailwind CSS · Vercel**
+<p>
+  <img alt="Portfolio Project" src="https://img.shields.io/badge/Portfolio%20Project-Web%20Engineering-72C341">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs">
+  <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel">
+</p>
 
 [GamersNGeeksDEMO](https://github.com/duhhbzz/GamersNGeeksDEMO) is an independent, non-production storefront redesign concept built as a complete interactive case study rather than a static mockup.
 
