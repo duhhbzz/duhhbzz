@@ -180,6 +180,7 @@ My day-to-day work is focused on:
 - Windows and Linux systems
 - networking and cloud services
 - troubleshooting, operational support, and automation
+- Physical Infrastructure Hardware Support
 
 ## Outside Work
 
