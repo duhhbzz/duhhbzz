@@ -216,17 +216,19 @@ Currently paused
 
 A modular enhancement framework for **Graveyard Keeper 2**. Current work is focused on deeper runtime UI integration, framework services, compatibility behavior, and the first gameplay/QoL modules built on top of the foundation.
 
-### davidtroi.com  
-<img alt="In Development" src="https://img.shields.io/badge/Status-In%20Development-orange">
-<img alt="Not Public Yet" src="https://img.shields.io/badge/Preview-Not%20Public%20Yet-555555">
+### davidtroi.com
 
-<p>
+<div>
+  <img alt="In Development" src="https://img.shields.io/badge/Status-In%20Development-orange">
+  <img alt="Not Public Yet" src="https://img.shields.io/badge/Preview-Not%20Public%20Yet-0969DA">
+</div>
+<div>
   <img alt="Personal Portfolio" src="https://img.shields.io/badge/Project-Personal%20Portfolio-555555">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel">
-</p>
+</div>
 
 Rebuilding my personal site into a cleaner technical portfolio for infrastructure, automation, software projects, and professional experience. The goal is a focused site that shows the work behind the résumé instead of just repeating it.
 
