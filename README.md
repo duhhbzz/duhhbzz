@@ -200,6 +200,28 @@ Currently paused
 
 ---
 
+## Currently Building
+
+### GK2+
+
+**Personal / open-source project · C# · BepInEx · Harmony**
+
+A modular enhancement framework for **Graveyard Keeper 2**. Current work is focused on deeper runtime UI integration, framework services, compatibility behavior, and the first gameplay/QoL modules built on top of the foundation.
+
+### davidtroi.com
+
+**Personal portfolio · Next.js · TypeScript · Tailwind CSS · Vercel**
+
+Rebuilding my personal site into a cleaner technical portfolio for infrastructure, automation, software projects, and professional experience. The goal is a focused site that shows the work behind the résumé instead of just repeating it.
+
+### LUXE Esports Platform
+
+**Co-founder project · Next.js · TypeScript · Supabase · Vercel**
+
+Ongoing technical work for the LUXE Esports web platform, including team and creator data, public profiles, content discovery, commerce integration, and the supporting application architecture.
+
+---
+
 <div align="center">
 
 ### Infrastructure · Systems Administration · Automation · Software
