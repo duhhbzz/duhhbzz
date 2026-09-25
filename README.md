@@ -249,6 +249,18 @@ Ongoing technical work for the LUXE Esports web platform, including team and cre
 
 ---
 
+## Support My Work
+
+If you enjoy my open-source projects, tooling, or modding work and want to support continued development:
+
+<a href="https://buymeacoffee.com/duhhbzz">
+  <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?logo=buymeacoffee&logoColor=black">
+</a>
+
+Support is completely optional and does not gate project features, source code, or community support.
+
+---
+
 <div align="center">
 
 ### Infrastructure · Systems Administration · Automation · Software
